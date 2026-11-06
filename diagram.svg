@@ -1,0 +1,48 @@
+
+<svg width="600" height="350" viewBox="0 0 600 350" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="350" fill="white"/>
+
+  <!-- Information Technology circle -->
+  <circle cx="230" cy="160" r="125"
+          fill="#4A90E2" fill-opacity="0.45"
+          stroke="#2563EB" stroke-width="2.5"/>
+
+  <!-- Business Management circle -->
+  <circle cx="370" cy="160" r="125"
+          fill="#F59E0B" fill-opacity="0.45"
+          stroke="#D97706" stroke-width="2.5"/>
+
+  <!-- Circle labels -->
+  <text x="175" y="145" font-size="19"
+        font-family="Arial" font-weight="bold"
+        text-anchor="middle" fill="#17365D">
+    Information
+  </text>
+  <text x="175" y="170" font-size="19"
+        font-family="Arial" font-weight="bold"
+        text-anchor="middle" fill="#17365D">
+    Technology
+  </text>
+
+  <text x="425" y="145" font-size="19"
+        font-family="Arial" font-weight="bold"
+        text-anchor="middle" fill="#854D0E">
+    Business
+  </text>
+  <text x="425" y="170" font-size="19"
+        font-family="Arial" font-weight="bold"
+        text-anchor="middle" fill="#854D0E">
+    Management
+  </text>
+
+  <!-- Intersection label -->
+  <text x="300" y="155" font-size="25"
+        font-family="Arial" font-weight="bold"
+        text-anchor="middle" fill="#111827">
+    ITM
+  </text>
+  <text x="300" y="180" font-size="13"
+        font-family="Arial"
+        text-anchor="middle" fill="#111827">
+  </text>
+</svg>
